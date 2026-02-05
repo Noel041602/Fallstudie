@@ -17,3 +17,6 @@ An den Kosten sollte sich dennoch nichts ändern, da es nur die Bedingung erweit
 Es wird leider bei den #variablen Energiekosten aufsummiert über alle Zeitintervalle (also die einzelne Berechnung je Zeitintervall und damit schlussendlich mal 96 genommen). 
 Deshalb ergeben sich als Gesamtkosten eine so hohe Summe, allerdings kann man sich aus den Einzelkosten den realen Betrag (734.655,86 €) berechnen und kann somit dennoch die Lösung vergleichen.
 Leider etwas umständlich, aber machbar. :)
+
+![IMG_0961](https://github.com/user-attachments/assets/e2fcd2f9-176c-4643-ab2f-3fc2c5c75af1)
+
